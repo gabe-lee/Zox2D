@@ -1,2 +1,6 @@
 .zig-cache/
+zig-cache/
 zig-out/
+.zig-out/
+Box2D/
+Box2D_incomplete/
